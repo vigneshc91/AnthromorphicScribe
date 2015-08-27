@@ -1,0 +1,100 @@
+General usage instruction
+
+
+Options under the file menu
+
+	*Import
+	*Save
+	*save As...
+	*Exit
+
+
+Import:
+
+	Import any audio file with MS WAV format having sampling rate 16 khz 16 bits mono channel.
+
+Save:
+
+	Save the text in the text area into a microsoft word document.
+
+Save As:
+
+	Save the text in the text area into any supported file format.
+
+Exit:
+
+	Close the application.
+
+
+
+Options under the record menu
+
+	*Start Recording
+	*Stop Recording
+	*Play Back
+	*Save To Disk
+
+
+
+Start Recording:
+	
+	Start recording your own voice with 16 khz 16 bits mono channel.
+
+
+Stop Recording:
+
+	Stop the recording and save temporarily.
+
+
+Play Back:
+
+	Play back your recorded audio.
+
+
+Save To Disk:
+
+	Save the recorded audio into a location you are giving.
+
+
+
+Option under the convert menu
+
+	*Select Source
+	*Select Destination
+
+
+Select Source:
+
+	Prompt you to select a source file you want to convert any supported format to MS WAV format.
+
+
+Select Destination:
+
+	Prompt you to select a destination file to convert the source file.
+
+
+How to use
+
+	*Already having the audio in the MS WAV format
+	*Not having the audio
+	*Having the audio but not in the MS WAv format
+
+
+Already having the audio in the MS WAV format:
+
+	If you already having the audio in the MS WAv format you can dirtecly import it to start the conversion process. Import option available in the file menu lets prompt you to select a audio file. Once if you import the file click on the "Start" button to start converting your audio to text. You will be prompted once conversion had be done. Then you can save the text in the text area to any desired format and location.
+
+
+Not having the audio:
+
+	If you not having the audio try start recording option from the record menu. It will capture your voice and once you want to stop the recording select on the stop recording option from the record menu. You can cross check the recorded voice using the play back option that will play the captured audio. Now click on the "Start" button to start converting your audio to text. The recorded audio will be temporarily saved in your disk and will be deleted once the conversion process is finished. If you want to save that audio use the save to disk option from the record menu to save the audio to your desired location.
+
+
+Having the audio but not in the MS WAV format:
+
+	If you already having the audio but if it not in the 16 Khz 16 bits mono MS WAV format try converting the audio to MS WAV format from the convert menu. The select source option from the convert menu lets you prompt to select the file you want to convert and select destination option from the convert menu prompt you to enter the file name and location to start the conversion process. You can also convert the video format to MS WAV format using this.
+
+
+
+
+
